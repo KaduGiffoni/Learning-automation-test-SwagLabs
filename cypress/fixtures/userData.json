@@ -1,0 +1,13 @@
+{
+  "users": {
+    "userNameSuccessful": "standard_user",
+    "lockedUser": "locked_out_user",
+    "problem_user": "problem_user",
+    "performance_glitch_user": "performance_glitch_user",
+    "error_user": "error_user",
+    "visual_user": "visual_user",
+    "anyUser": "user_not_found"
+  },
+
+  "password": "secret_sauce"
+}
